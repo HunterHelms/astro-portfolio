@@ -13,6 +13,7 @@ export const LINKS = {
   instagram: 'https://www.instagram.com/caj_ink/',
   medium: 'https://ladvace.medium.com/',
   discord: 'https://discordapp.com/users/163300027618295808',
+  rewardzilla: 'https://www.rewardzilla.net/',
 }
 
 // Global
