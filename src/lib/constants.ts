@@ -84,11 +84,11 @@ export const STUDIES = [
 
 export const EXPERIENCE = [
   {
-    company: 'Straico',
-    location: 'Bogotá D C, Colombia',
-    position: 'Software Engineer',
-    start: '2021',
-    link: 'https://straico.com/',
+    company: 'FIXD',
+    location: 'Atlanta, GA (Remote)',
+    position: 'Product Manager',
+    start: '2022',
+    link: 'https://fixdapp.com/',
     end: 'Current',
     tasks: [
       'Integration IA services with react and tailwind css',
@@ -96,12 +96,12 @@ export const EXPERIENCE = [
     ],
   },
   {
-    company: 'Spot2',
-    location: 'Mexico City, Mexico',
-    position: 'Software Engineer',
-    link: 'https://spot2.mx/',
-    start: '2021',
-    end: 'Current',
+    company: 'LinkedIn',
+    location: 'San Francisco, CA (Remote)',
+    position: 'Technical Program Manager',
+    link: 'https://linkedin.com/',
+    start: '2018',
+    end: '2021',
     tasks: [
       'Development of the Spot2 platform with the use of React, Redux, and Material UI',
       'Development map with the use of Google Maps API',
