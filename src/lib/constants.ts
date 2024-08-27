@@ -7,21 +7,22 @@ export const loaderAnimation = [
 ]
 
 export const LINKS = {
-  github: 'https://github.com/bue221',
-  linkedin: 'https://www.linkedin.com/in/bue221/',
-  mail: 'mailto:camiloplaza3@gmail.com',
-  instagram: 'https://www.instagram.com/caj_ink/',
-  medium: 'https://ladvace.medium.com/',
+  github: 'https://github.com/HunterHelms',
+  linkedin: 'https://www.linkedin.com/in/brodiehelms/',
+  mail: 'mailto:bhelms@redmontdigital.com',
+  instagram: 'https://www.instagram.com/brodiehelms/',
+  medium: 'https://medium.com/@brodiehelms',
+  substack: 'https://pmbrodie.substack.com/',
   discord: 'https://discordapp.com/users/163300027618295808',
   rewardzilla: 'https://www.rewardzilla.net/',
 }
 
 // Global
 export const SITE: Site = {
-  TITLE: 'Astro Sphere',
+  TITLE: 'bhelms.com',
   DESCRIPTION:
-    'Welcome to Astro Sphere, a portfolio and blog for designers and developers.',
-  AUTHOR: 'Mark Horn',
+    'Welcome to brodieh.com, a product enthusiast and software developer portfolio and blog.',
+  AUTHOR: 'Brodie Helms',
 }
 
 // Work Page
@@ -110,15 +111,15 @@ export const EXPERIENCE = [
     ],
   },
   {
-    company: 'Imaginamos',
-    link: 'https://imaginamos.com/',
-    location: 'Bogotá D C, Colombia',
+    company: 'VynlMnky',
+    link: 'https://www.vinylmnky.com/?srsltid=AfmBOoodTIt1wPYINyslQBeVnlqlYCLlRbOYM0NKz8ijFmv1X8-V0YxK',
+    location: 'Austin, TX',
     position: 'Frontend developer',
-    start: '2021',
-    end: '2021',
+    start: '2017',
+    end: '2017',
     tasks: [
-      'Development of the Imaginamos platform with the use of React, Redux, and Material UI',
-      'Work in ETB project with the use of React, Redux, and Material UI',
+      'Development of the VynlMnkt platform with the use of React, Redux, and Material UI',
+      'Work in VynlMnky e-commerce site with the use of Shopify, Liquid, and React',
     ],
   },
   {
