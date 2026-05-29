@@ -14,7 +14,7 @@ export const LINKS = {
   medium: 'https://medium.com/@brodiehelms',
   substack: 'https://pmbrodie.substack.com/',
   discord: 'https://discordapp.com/users/163300027618295808',
-  rewardzilla: 'https://www.rewardzilla.net/',
+  nugget: 'https://nggt.ai/',
   booking: 'https://calendar.app.google/1RgGcSPRMjPVzF4Y9',
 }
 
